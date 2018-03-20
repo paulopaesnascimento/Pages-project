@@ -76,11 +76,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
-<<<<<<< HEAD
-    loofah (2.2.1)
-=======
     loofah (2.2.0)
->>>>>>> 2ae806001b70aa308229c3844f50a99591a4d964
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.0)
@@ -93,10 +89,7 @@ GEM
     nio4r (2.3.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
-<<<<<<< HEAD
     pg (1.0.0)
-=======
->>>>>>> 2ae806001b70aa308229c3844f50a99591a4d964
     public_suffix (3.0.2)
     puma (3.11.3)
     rack (2.0.4)
@@ -188,12 +181,9 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
-<<<<<<< HEAD
   pg
-=======
->>>>>>> 2ae806001b70aa308229c3844f50a99591a4d964
   puma (~> 3.7)
-  rails (~> 5.1.5)
+  rails (~> 5.1.4)
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
